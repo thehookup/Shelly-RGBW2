@@ -1,7 +1,7 @@
 # Shelly RGBW2
 This repository is to accompany my Shelly RGBW2 YouTube video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/90n8cZJcFaU/0.jpg)](https://www.youtube.com/watch?v=90n8cZJcFaU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/B8DQntdtD4E/0.jpg)](https://www.youtube.com/watch?v=B8DQntdtD4E)
 
 The RGBW2 is a full featured LED controller that supports smooth dimming of 4 channels and 16 million colors of RGB.
 
