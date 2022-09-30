@@ -101,7 +101,12 @@ light:
     effect_template: '{{ value_json.effect }}'
     qos: 2
   ```
-## Home Assistant YAML for setting up RGBW2 to control 4 different channels of white LEDs (strips or pot lights)
+## Home Assistant to control 4 different channels of white LEDs (strips or pot lights) - For version 2022.9 and higher
+The suggestion is to use one of the following integrations:
+- [Official Shelly for HA](https://www.home-assistant.io/integrations/shelly/)
+- [ShellyForHASS](https://github.com/StyraHem/ShellyForHASS)
+
+## Home Assistant YAML for setting up RGBW2 to control 4 different channels of white LEDs (strips or pot lights) - For version 2022.8 and lower
 
 ```yaml
 light:
